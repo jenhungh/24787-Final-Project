@@ -1,4 +1,4 @@
-# 24787-Final-Project
+# Machine-Learning-Methods-for-Control-Systems
 1. MLP Folder:  
 (1) left/right wheel.py - run MLP on Self-Collect Dataset  
   
